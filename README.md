@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+
+#### TOC
+- [Environment Variables](https://github.com/shanreed25/Software-Development/blob/main/SCM/EnvironmentVariables.md)
 <!--
 **shanreed25/shanreed25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
