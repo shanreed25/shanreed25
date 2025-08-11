@@ -4,7 +4,7 @@
 
 #### TOC
 - [🌐 Web Foundation](https://github.com/shanreed25/Web-Foundation)
-- [<img src="https://github.com/shanreed25/Python/blob/main/Basics/assets/python.png" alt="python symbol" style="width:50px;"/> Python](https://github.com/shanreed25/Python)
+- [<img src="https://github.com/shanreed25/Python/blob/main/Basics/assets/python.png" alt="python symbol" style="width:10px; height:10px;"/> Python](https://github.com/shanreed25/Python)
 <!--
 **shanreed25/shanreed25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
