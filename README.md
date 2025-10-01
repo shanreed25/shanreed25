@@ -14,6 +14,11 @@
 
 #### CSS Projects
 ✨ [Pseudo Elements Project](https://github.com/shanreed25/CSS/tree/main/concept-projects/pseudo-elements)
+
+
+#### Other Projects
+- 🎮 [Beginners Guide To Roblox Development](https://github.com/shanreed25/Roblox)
+  - Excellent resource for anyone wanting to learn Roblox game development, providing both the theoretical foundation in Lua programming and practical experience building actual games.
 <!--
 **shanreed25/shanreed25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
