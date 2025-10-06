@@ -5,20 +5,25 @@
 🌐 [Web Development](https://github.com/shanreed25/Web-Development)
 
 
-### Databases
-- [Relational Databases: Python](https://github.com/shanreed25/Database/tree/main/RelationalDatabases/Python)
+### 🗃️ Databases
+- [Databases](https://github.com/shanreed25/Database)
+  - definition, design and types
+- [Connecting Application To Database](https://github.com/shanreed25/Database/tree/main/ConnectingApplications)
+- [Relational Databases](https://github.com/shanreed25/Database/tree/main/RelationalDatabases)
+  - [SQL](https://github.com/shanreed25/Database/tree/main/RelationalDatabases/SQL)
+  - [Relational Databases: Python](https://github.com/shanreed25/Database/tree/main/RelationalDatabases/Python)
 <!-- <img src="https://github.com/shanreed25/Web-Foundation/blob/main/WebConcepts/assets/python.png" alt="python symbol" style="width:20px; height:20px;"/> [Python](https://github.com/shanreed25/Python)
 
 - [Difference between Library and framework](https://medium.com/@feruzTeame/difference-between-library-and-framework-d4c255579bee) -->
-- [Databases](https://github.com/shanreed25/Database)
 
+<!--
 #### CSS Projects
-✨ [Pseudo Elements Project](https://github.com/shanreed25/CSS/tree/main/concept-projects/pseudo-elements)
+[Pseudo Elements Project](https://github.com/shanreed25/CSS/tree/main/concept-projects/pseudo-elements)
 
 
 #### Other Projects
 - 🎮 [Beginners Guide To Roblox Development](https://github.com/shanreed25/Roblox)
-  - Excellent resource for anyone wanting to learn Roblox game development, providing both the theoretical foundation in Lua programming and practical experience building actual games.
+  - Excellent resource for anyone wanting to learn Roblox game development, providing both the theoretical foundation in Lua programming and practical experience building actual games.-->
 <!--
 **shanreed25/shanreed25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
