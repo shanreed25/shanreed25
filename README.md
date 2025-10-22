@@ -12,6 +12,13 @@
 - [Relational Databases](https://github.com/shanreed25/Database/tree/main/RelationalDatabases)
   - [SQL](https://github.com/shanreed25/Database/tree/main/RelationalDatabases/SQL)
   - [Relational Databases: Python](https://github.com/shanreed25/Database/tree/main/RelationalDatabases/Python)
+
+
+
+ ### Python
+ - [🎨 Python Color Mode Project](https://github.com/shanreed25/Python-Color-Mode/tree/main)
+   - easy-to-use functions for both 256-color mode and 24-bit RGB true color terminal output
+- [⚡ Python Universal Functions](https://github.com/shanreed25/Python-Universal-Functions)
 <!-- <img src="https://github.com/shanreed25/Web-Foundation/blob/main/WebConcepts/assets/python.png" alt="python symbol" style="width:20px; height:20px;"/> [Python](https://github.com/shanreed25/Python)
 
 - [Difference between Library and framework](https://medium.com/@feruzTeame/difference-between-library-and-framework-d4c255579bee) -->
