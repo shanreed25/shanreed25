@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Per Scholas Projects
 - [Responsive Accessible Web Page](sba-building-responsive-accessible-web-page)
 - [Testimonials: CSS Grid](testimonials-grid-section)
 - [Version Control Simulation](version-control-simulation-shannonreed)
   
+-->
