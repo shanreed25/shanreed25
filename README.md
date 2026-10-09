@@ -21,8 +21,8 @@ I also run Creative Tech Studio, a small program where I teach kids coding and A
 
 ## 📨 Contact
 
-- LinkedIn: [www.linkedin.com/in/devshannonreed/]
-- Email: [shannontlreed@gmail.com]
+- LinkedIn: www.linkedin.com/in/devshannonreed
+- Email: shannontlreed@gmail.com
 
 <!--
 **shanreed25/shanreed25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
