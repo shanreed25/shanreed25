@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-### Per Scholas Projects
+### 🔭 I’m currently working on Per Scholas Projects
 - [Responsive Accessible Web Page](sba-building-responsive-accessible-web-page)
 - [Testimonials: CSS Grid](testimonials-grid-section)
 - [Version Control Simulation](version-control-simulation-shannonreed)
-  
+- [API Simulator]()
+- [Inventory Tracker]()
+- [Personal Blog]()
+- [Interactive Registration Form]()
 -->
+
+
