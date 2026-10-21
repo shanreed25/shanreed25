@@ -1,6 +1,6 @@
 # Hi, I'm Shannon 👋🏾
 
-I'm a software engineer based in Las Vegas with about five years of professional experience> I am currently upskilling and building projects on my own full time and looking for my next engineering role.
+I'm a software engineer based in Las Vegas with about five years of professional experience. I am currently upskilling and building projects on my own full time and looking for my next engineering role.
 
 I also run Creative Tech Studio, a small program where I teach kids coding and AI skills by having them create real digital assets such as logos, banners, thumbnails, and animations.
 
